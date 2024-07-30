@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/squaregame-x/static/css/main.ff02f4b5.css",
+    "main.js": "/squaregame-x/static/js/main.dd9dd31a.js",
+    "static/js/453.570bb8cf.chunk.js": "/squaregame-x/static/js/453.570bb8cf.chunk.js",
+    "index.html": "/squaregame-x/index.html",
+    "main.ff02f4b5.css.map": "/squaregame-x/static/css/main.ff02f4b5.css.map",
+    "main.dd9dd31a.js.map": "/squaregame-x/static/js/main.dd9dd31a.js.map",
+    "453.570bb8cf.chunk.js.map": "/squaregame-x/static/js/453.570bb8cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.dd9dd31a.js"
+  ]
+}
